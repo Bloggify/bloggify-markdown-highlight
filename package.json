@@ -16,7 +16,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
   "files": [
     "bin/",
     "app/",
@@ -31,10 +31,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-config.git"
+    "url": "git+ssh://git@github.com/Bloggify/bloggify-config.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/bloggify-config/issues"
+    "url": "https://github.com/Bloggify/bloggify-config/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bloggify-config#readme"
+  "homepage": "https://github.com/Bloggify/bloggify-config#readme",
+  "dependencies": {
+    "decamelize": "^1.2.0",
+    "iterate-object": "^1.3.2",
+    "ul": "^5.2.8"
+  }
 }
