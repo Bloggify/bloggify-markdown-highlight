@@ -39,3 +39,19 @@ console.log(bloggifyConfig({
         twitter: "Bloggify"
     }
 }));
+// { metadata:
+//    { twitter: 'Bloggify',
+//      siteTitle: 'Bloggify',
+//      description: 'We make publishing easy.',
+//      domain: 'http://localhost:8080' },
+//   corePlugins:
+//    [ 'bloggify-plugin-manager',
+//      'bloggify-router',
+//      'bloggify-ajs-renderer',
+//      'bloggify-viewer' ],
+//   server: { port: 8080 },
+//   theme: { path: 'node_modules/bloggify-theme-light' },
+//   pluginConfigs:
+//    { 'bloggify-plugin-manager': [ 'debug', 'github-login' ],
+//      'github-login': { secret: 'foo', clientId: 'bar' },
+//      'ajs-renderer': { cache: false } } }
