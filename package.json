@@ -40,6 +40,11 @@
   "dependencies": {
     "decamelize": "^1.2.0",
     "iterate-object": "^1.3.2",
-    "ul": "^5.2.8"
+    "ul": "^5.2.8",
+
+    "bloggify-ajs-renderer": "^1.0.0",
+    "bloggify-plugin-manager": "^1.0.0",
+    "bloggify-router": "^1.0.1",
+    "bloggify-viewer": "^1.0.1"
   }
 }
