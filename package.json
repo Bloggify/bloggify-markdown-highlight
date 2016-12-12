@@ -38,5 +38,13 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/bloggify-markdown-highlight/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bloggify-markdown-highlight#readme"
+  "homepage": "https://github.com/IonicaBizau/bloggify-markdown-highlight#readme",
+  "dependencies": {
+    "showdown-highlight": "^1.0.0"
+  },
+  "bloggify": {
+      "config": {
+          "theme": "default"
+      }
+  }
 }
