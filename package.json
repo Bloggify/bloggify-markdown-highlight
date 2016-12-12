@@ -43,8 +43,8 @@
     "showdown-highlight": "^1.0.0"
   },
   "bloggify": {
-      "config": {
-          "theme": "default"
-      }
+    "config": {
+      "theme": "default"
+    }
   }
 }
