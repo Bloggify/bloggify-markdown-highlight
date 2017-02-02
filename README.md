@@ -94,6 +94,7 @@ Create Bloggify configuration.
  - `devConfig` (Object): An object containing the development-specific plugin configs (default: {}).
  - `config` (Object): An object containing the plugin configs (default: {}).
  - `plugins` (Array): The plugins to be loaded (default: []).
+ - `corePlugins` (Array): The plugins to be loaded before loading the router and the renderer.
  - `devPlugins` (Array): The plugins to be loaded in the development mode (default: []).
  - `prodPlugins` (Array): The plugins to be loaded in the production mode (default: []).
 - **Object** `additional`: Additional fields to merge in the object.
@@ -107,14 +108,18 @@ Create Bloggify configuration.
 Have an idea? Found a bug? See [how to contribute][contributing].
 
 
+## :dizzy: Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
+
+
+ - [`bloggify-bloggify-quick-start`](https://github.com/Bloggify/bloggify-quick-start#readme)—A simple example of a Bloggify app.
+ - [`bloggify-custom-app-template`](https://github.com/BloggifyTutorials/custom-app#readme)—A custom application built with @Bloggify.
 
 ## :scroll: License
 
 [MIT][license] © [Bloggify][website]
 
-
 [license]: http://showalicense.com/?fullname=Bloggify%20%3Csupport%40bloggify.org%3E%20(https%3A%2F%2Fbloggify.org)&year=2016#license-mit
-
 [website]: https://bloggify.org
 [contributing]: /CONTRIBUTING.md
 [docs]: /DOCUMENTATION.md

@@ -19,6 +19,7 @@ Create Bloggify configuration.
  - `devConfig` (Object): An object containing the development-specific plugin configs (default: {}).
  - `config` (Object): An object containing the plugin configs (default: {}).
  - `plugins` (Array): The plugins to be loaded (default: []).
+ - `corePlugins` (Array): The plugins to be loaded before loading the router and the renderer.
  - `devPlugins` (Array): The plugins to be loaded in the development mode (default: []).
  - `prodPlugins` (Array): The plugins to be loaded in the production mode (default: []).
 - **Object** `additional`: Additional fields to merge in the object.
