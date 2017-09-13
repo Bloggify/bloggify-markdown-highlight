@@ -2,13 +2,8 @@
 
 You can see below the API reference of this module.
 
-### `bloggifyMarkdownHighlight(a, b)`
-Highlight code blocks in the Markdown code.
+### Plugin Configuration
 
-#### Params
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
-
-#### Return
-- **Number** Return description.
+- **Object** `config`:
+  - `theme` (String): The HighlightJS theme (default: `"default"`).
 

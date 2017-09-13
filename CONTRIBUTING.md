@@ -61,6 +61,6 @@ Thanks! :sweat_smile:
 
 
 
-[1]: https://github.com/IonicaBizau/bloggify-markdown-highlight/issues
+[1]: https://github.com/Bloggify/bloggify-markdown-highlight/issues
 
 [2]: https://github.com/IonicaBizau/code-style
