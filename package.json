@@ -16,20 +16,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "files": [
     "bin/",
     "app/",
-    "public/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ],
   "repository": {
     "type": "git",
@@ -41,10 +42,5 @@
   "homepage": "https://github.com/IonicaBizau/bloggify-markdown-highlight#readme",
   "dependencies": {
     "showdown-highlight": "^1.0.0"
-  },
-  "bloggify": {
-    "config": {
-      "theme": "default"
-    }
   }
 }
