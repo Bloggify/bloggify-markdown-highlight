@@ -96,6 +96,7 @@ There are few ways to get help:
 
 - **Object** `config`:
   - `theme` (String): The HighlightJS theme (default: `"default"`).
+  - `version` (String): The HighlightJS version (default: `"11.5.0"`).
 
 
 
