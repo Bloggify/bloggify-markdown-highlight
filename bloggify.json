@@ -1,5 +1,6 @@
 {
     "config": {
-        "theme": "default"
+        "theme": "default",
+        "version": "11.5.0"
     }
 }
